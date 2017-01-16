@@ -2,8 +2,9 @@
 Final projects by the members
 
 ## 2016年度
-
 ### 卒論
+* 岡部 匡志「 [日本のIPO市場におけるアンダープライシングの時系列分析](https://github.com/M-okb/IPO_analysis/blob/master/latex/test.pdf)」  
+  日本のIPO市場におけるアンダープライシングを、20年間にわたるサンプルを用いてARモデルで回帰した。  
 
 ### ゼミ論
 
